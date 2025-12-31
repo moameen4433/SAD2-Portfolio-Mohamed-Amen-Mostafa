@@ -1,14 +1,11 @@
-# Task Description
+This project is a simple program for managing elements within a hospital system, and it includes:
 
-هذا المشروع عبارة عن برنامج بسيط لإدارة عناصر داخل نظام مستشفى، ويتضمن:
+- Adding doctors
+- Adding patients
+- Adding nurses
+- Adding appointments between doctors and patients
+- Adding prescriptions written by doctors for patients
+- Recording follow-up notes from nurses on patients
+- Displaying nurse notes
 
--   إضافة دكاترة (Doctor)
--   إضافة مرضى (Patient)
--   إضافة ممرضات (Nurse)
--   إضافة مواعيد (Appointment) بين دكتور ومريض
--   إضافة وصفات طبية (Prescription) يكتبها دكتور لمريض
--   تسجيل ملاحظات متابعة من الممرضة على المرضى
--   عرض ملاحظات الممرضات
-
-البرنامج يعمل من خلال قائمة (Menu) داخل الـ Console، ويعتمد على
-ArrayList لتخزين البيانات أثناء التشغيل.
+The program operates through a menu within the console and uses an array list to store data during operation.
